@@ -24,3 +24,4 @@ label01:
 sleep:
 	nop
 	b	.
+///
